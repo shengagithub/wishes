@@ -6,5 +6,5 @@ st.set_page_config(page_title="宋梦装逼专用网站",    #页面标题
     initial_sidebar_state="auto"  )
 st.write("希望梦公子越长越帅！")
 
-image = Image.open('2.jpg')
+image = Image.open('3.jpg')
 st.image(image, caption='Sunrise by the mountains',use_column_width=True)
